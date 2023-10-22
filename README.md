@@ -27,9 +27,16 @@ The project follows these key steps:
 **Dependencies**
 
 -Python 3.x
+
 -Jupyter Notebook
+
 -NumPy
+
 -Pandas
+
 -Matplotlib
+
 -Seaborn
+
 -Scikit-Learn
+
