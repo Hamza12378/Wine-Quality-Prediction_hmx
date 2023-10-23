@@ -26,11 +26,11 @@ The project follows these key steps:
 
 # Dependencies
 
--Python 3.11
--Jupyter Notebook
--NumPy
--Pandas
--Matplotlib
--Seaborn
--Scikit-Learn
+- Python 3.11
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-Learn
 
