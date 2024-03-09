@@ -1,4 +1,4 @@
-# Wine-Quality-Prediction_hmx
+# Wine_Quality_Prediction_hmx
 
 This repository contains a Wine Quality Prediction implemented in a Jupyter Notebook. The notebook aims to predict the quality of wines based on various chemical attributes. It uses a machine learning model to make these predictions.
 
