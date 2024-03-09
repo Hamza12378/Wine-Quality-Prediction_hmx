@@ -3,7 +3,7 @@
 This repository contains a Wine Quality Prediction implemented in a Jupyter Notebook. The notebook aims to predict the quality of wines based on various chemical attributes. It uses a machine learning model to make these predictions.
 
 
-# Dataset
+# Dataset 
 
 The dataset used for this project is the Wine Quality Dataset provided in the repository, which consists of several attributes such as fixed acidity,	volatile acidity,	citric acid,	residual sugar,	chlorides,	free sulfur dioxide,	total sulfur dioxide,	density,	pH,	sulphates,	alcohol and others, along with a quality rating for each wine. The dataset has been preprocessed and cleaned for use in the prediction model.
 
